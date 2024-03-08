@@ -1,3 +1,6 @@
+// Escriba un programa que cree un proceso hijo el cual genere un número entero aleatorio,
+// cuya primalidad sea verificada por el padre.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>

@@ -1,3 +1,6 @@
+// Escriba un programa que cree un proceso hijo que calcule el cuadrado de un numero 
+// ingresado por el usuario. El proceso padre debe calcular el cubo de dicho número.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>

@@ -1,3 +1,5 @@
+// Escriba un programa que cree una jerarquía de procesos como la mostrada en el gráfico adjunto
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>

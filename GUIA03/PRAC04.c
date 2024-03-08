@@ -1,3 +1,7 @@
+// Escriba un programa que cree un proceso hijo que determine la raíz cuadrada de un
+// numero ingresado por el usuario. El proceso padre debe mostrar el resultado calculado
+// (investigue la llamada vfork()).
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>

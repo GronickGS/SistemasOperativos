@@ -1,3 +1,6 @@
+// Escriba un programa que cree un hijo, espere su terminación y muestre la información de
+// Estado de terminación del mismo.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
